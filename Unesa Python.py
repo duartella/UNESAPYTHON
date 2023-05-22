@@ -4,3 +4,4 @@ def Cadastro():
    Nome = input("Nome")
    Idade = input("Idade")
    Senha = input("Senha")
+
