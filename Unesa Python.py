@@ -7,5 +7,3 @@ print("Olá, novo usuário!")
 Nome = input('Nome ')
 Idade = input('Idade ')
 print("Seja bem-vindo, " + Nome)
-
-# 
